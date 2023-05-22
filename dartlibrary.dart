@@ -410,15 +410,6 @@ void math_and_random() {
   print('nextBool: $value3');
 }
 
-// 编解码JSON，UTF-8等 (https://dart.cn/guides/libraries/library-tour#dartconvert---decoding-and-encoding-json-utf-8-and-more)
-// TODO: 自学
-
-// 基于浏览器应用（https://dart.cn/guides/libraries/library-tour#darthtml）
-// TODO: 暂缓
-
-// 服务器和命令行应用程序的 I/O（https://dart.cn/guides/libraries/library-tour#dartio）
-// TODO: 自学，下周详细讲
-
 void main(List<String> args) {
   // 数字、集合、字符串等
   dartcore_numbers_numbers_collections_strings_and_more();
